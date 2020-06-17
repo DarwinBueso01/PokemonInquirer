@@ -6,7 +6,7 @@ inquirer
         /* Pass your questions in here */
         {
             type: 'input',
-            message: 'what os your trainer name?',
+            message: 'what is your trainer name?',
             name: 'trainerName'
         },
         {
